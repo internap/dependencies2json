@@ -8,3 +8,5 @@ pip freeze | python <(curl https://raw.githubusercontent.com/internap/dependenci
 
 composer show --installed | python <(curl https://raw.githubusercontent.com/internap/dependencies2json/master/composer_dependencies2json.py)
 ```
+
+Thanks for Contributing!
